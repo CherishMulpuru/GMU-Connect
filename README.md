@@ -1,4 +1,4 @@
-1. Overview
+Overview
 GMU Connect is a matchmaking and networking platform intended to help George Mason University students find study partners, form project groups, and build academic or social connections. By inputting your courses, skills, and areas of need, you are matched with others who either have taken similar courses or possess complementary skills.
 
 Example Use Cases:
